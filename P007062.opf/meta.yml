@@ -1,15 +1,16 @@
-id: opecha:P007062
+id: P007062
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN3435
   title: དབུ་མའི་སྤྱི་དོན་སྐལ་བཟང་མགུལ་རྒྱན།
-  volume:
+  author: ''
+  volumes:
     882b993f6c9748c49588073669e59fb3:
       image_group_id: I3CN8570
       title: Volume 1 of dbu ma'i spyi don skal bzang mgul rgyan/
       volume_number: 1
       total_pages: 384
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དབུ་མའི་སྤྱི་དོན་སྐལ་བཟང་མགུལ་རྒྱན།
   author: ''
