@@ -5,11 +5,12 @@ source_metadata:
   title: དབུ་མའི་སྤྱི་དོན་སྐལ་བཟང་མགུལ་རྒྱན།
   author: ''
   volumes:
-    9e5d7d615dff43dfbaf1bf039fad91ef:
+    882b993f6c9748c49588073669e59fb3:
       image_group_id: I3CN8570
-      title: ''
+      title: Volume 1 of dbu ma'i spyi don skal bzang mgul rgyan/
       volume_number: 1
       total_pages: 384
+      base_file: v001.txt
 ebook_metadata:
   title: དབུ་མའི་སྤྱི་དོན་སྐལ་བཟང་མགུལ་རྒྱན།
   author: ''
